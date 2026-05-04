@@ -1,4 +1,4 @@
-# функция это
+# функция это обертка
 
 def calculate_sum(num1:int|float, num2:int|float):
     return num1 + num2
